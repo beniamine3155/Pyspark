@@ -1,0 +1,101 @@
+order_id,customer_name,email,order_date,product,quantity,price,payment_method,status,shipping_address,country,delivery_date
+1.0,Jordan Bishop,schneiderstacy@shea.biz,32-13-2022,Mobile,4,249.5,Cheque,Done,"Unit 8595 Box 4233, DPO AP 47945",India,
+2.0,Kimberly James,gregory22@west-bradford.com,2023-05-18,Laptop,,99.99,,Done,,Ind,2022-06-03
+3.0,Lauren West,floresrachel@yahoo.com,32-13-2022,Laptop,1,,Credit Card,Done,"655 Clark Port Apt. 054, Lake Robertborough, SC 23562",Ind,
+4.0,Amanda Villa,patelbradley@faulkner.info,2025-04-25,Mobile,3,ten,Cheque,Refunded,"752 Jennifer Fields, Nicoleside, IA 68287",USA,2024-02-24
+5.0,Timothy Raymond,invalid_email,2024-08-30,Camera,4,249.5,Debit Card,Refunded,"0275 Victoria Flats Apt. 046, West Peter, KY 14061",Canada,
+6.0,Penny Young,smartin@gmail.com,2024-04-26,Mobile,4,-100,Debit Card,Completed,"298 Morris Path Suite 778, Jamesburgh, LA 68613",India,
+7.0,Jeffrey Smith,amy26@little.com,2020-11-14,,,500.0,Credit Card,Completed,"76254 Devin Ridge Apt. 695, Smithport, TX 38217",USA,2020-09-03
+8.0,Sara Taylor,pamelawaller@gmail.com,2020-11-09,Tablet,10,,Debit Card,Cancelled,"7328 Brown Streets, Cooperfort, DE 10734",UK,2021-05-06
+9.0,Barbara Shelton,perezjoseph@reed.info,2021-04-03,Camera,five,-100,Debit Card,Pending,"278 Shannon Parks Apt. 962, Dianeside, SC 28345",USA,2022-03-19
+,Angela Diaz,snydermelanie@reed.com,2024-12-06,Headphones,,99.99,UPI,Pending,"Unit 6627 Box 6067, DPO AA 79773",India,2021-01-16
+11.0,Laurie Smith,danielleconley@yahoo.com,2023-12-11,Mobile,3,249.5,Cheque,Refunded,,Ind,2024-02-16
+12.0,Kristen Freeman,jacquelinecooper@hotmail.com,2022-09-01,,5,249.5,UPI,Refunded,"USNS Cole, FPO AE 03011",USA,
+13.0,Catherine Jones,ctrevino@gmail.com,2023-01-19,,3,99.99,Debit Card,Done,"7400 Peterson Parks, Shirleystad, SC 17707",UK,2025-05-13
+14.0,Kimberly Glover,joshua33@perez.com,2023-04-23,Mobile,1,ten,UPI,Refunded,"246 Thomas Ford, Hansonchester, NY 99132",UK,2024-10-25
+15.0,Julie Vaughn,olee@chavez.com,2023-05-22,Tablet,5,,Cheque,Completed,"243 Burke Turnpike Suite 734, West Rodneyborough, RI 33012",Canada,2025-03-07
+16.0,Michele Roach,aliciaadams@hotmail.com,2023-03-15,Headphones,10,500.0,Credit Card,Cancelled,"542 Burton Cliff, Johnside, CA 71819",Australia,
+17.0,Alicia Goodman,jason70@wright-miller.com,2022-07-24,Laptop,10,500.0,UPI,Pending,"2035 Crystal Forge, Jamesbury, OK 96355",Australia,2025-02-03
+18.0,Michael Gordon,leelauren@gmail.com,2023-07-16,Mobile,3,249.5,Credit Card,Done,"33397 Wood Gateway, Williamsville, NH 47488",USA,2022-11-24
+19.0,Jacob Carlson,dfischer@yahoo.com,2025-03-03,Laptop,5,,Credit Card,Refunded,"Unit 5530 Box 4565, DPO AA 37269",USA,2020-05-29
+20.0,Jenna Stein,invalid_email,2020-08-10,Headphones,,-100,Credit Card,Refunded,"PSC 8589, Box 6744, APO AP 85841",Australia,2024-12-22
+21.0,Stanley Burke,johnfowler@martinez.com,2022-10-13,Headphones,5,99.99,,Refunded,"100 Jillian Rapids Suite 626, West Daniel, OK 24318",Australia,2023-06-04
+22.0,Jason Hurst,invalid_email,2024-11-28,Headphones,10,99.99,Cheque,Cancelled,"386 Jessica Fork Suite 441, West John, GA 16883",USA,2025-04-25
+23.0,Miranda Guerra,kelly73@howard.com,2020-10-30,Tablet,5,500.0,,Refunded,,Australia,
+24.0,Lee Golden,vmiller@dawson-clements.org,2022-01-27,Tablet,10,99.99,Debit Card,Done,"7466 Sherri Harbors, Medinaside, ND 31215",UK,
+25.0,Barbara Clark,joshuahart@parsons-rodriguez.com,2021-03-09,Laptop,five,99.99,Cash,Pending,"9207 Cynthia Mount Suite 317, Lake Wesley, GA 30068",Canada,2022-12-11
+26.0,Alan Vance,benjamin43@miller.org,2025-03-14,Headphones,,,Cash,Refunded,"122 Heather Forges, Johnsonview, TX 50443",Ind,
+27.0,Steven Nichols,heatherjacobs@yahoo.com,2020-02-07,Camera,1,-100,Credit Card,Done,"121 Matthew Crescent Suite 378, Carterberg, PA 66350",Australia,2021-08-25
+28.0,John Brown,ifisher@yahoo.com,2021-12-30,Mobile,5,,Credit Card,Refunded,"058 Eric Cliff, New Jessechester, ND 04227",UK,
+,Daniel Simmons,nkelly@wells.org,2020-03-24,Laptop,4,99.99,UPI,Pending,"28997 Deborah Divide, Scottside, NE 85975",Ind,2020-12-02
+30.0,Jeff Marshall,ubernard@gmail.com,2024-06-04,,10,500.0,Debit Card,Done,"465 Smith Lock, Lake James, RI 58109",Australia,2024-12-20
+31.0,Erica Russell,aguirreamy@rivera-harris.com,2020-05-16,Laptop,,-100,Cheque,Cancelled,"165 Michelle Walks Apt. 103, Emilyfurt, AL 85278",USA,2024-03-24
+32.0,Charles Carroll,kimpaul@hotmail.com,2023-12-20,Mobile,3,ten,Credit Card,Pending,"150 Robbins Inlet, Timothyview, VA 41246",UK,2020-10-25
+33.0,Karen Miller,shelly77@berry.org,2020-12-01,Tablet,five,ten,Credit Card,Refunded,"8243 Laura Junctions, Mariashire, RI 54936",India,2021-11-25
+34.0,John Garcia,ronaldwarren@yahoo.com,2023-02-16,Camera,10,500.0,Cheque,Completed,"950 Joanna Parkways, New Charles, KS 87883",Canada,2025-04-22
+35.0,Adam Smith,wrodriguez@garcia.com,32-13-2022,Mobile,five,249.5,UPI,Completed,,Australia,
+36.0,Alexis Schneider,gregory67@gmail.com,2025-03-04,Tablet,10,249.5,Cash,Completed,"948 John Tunnel Apt. 281, Flowersland, MS 87842",Ind,2021-04-16
+37.0,Jose Clark,taylorkim@gmail.com,2025-04-27,Laptop,10,99.99,Credit Card,Done,"065 Ford Plain, Marissaville, CA 44577",India,2020-02-08
+38.0,Mallory Miller,johnsonpatricia@luna-sullivan.biz,2025-04-27,,5,500.0,Debit Card,Completed,"6151 Tracy Corner, Port April, MI 28610",UK,2024-02-13
+39.0,Anthony Trevino,dawn78@cole.com,2024-05-23,Mobile,10,ten,Debit Card,Completed,"36009 Christie Passage, North Sarah, NV 91093",Canada,2020-07-18
+40.0,Marissa King,tammy70@lindsey.net,2023-03-09,,,,UPI,Refunded,,UK,2024-01-10
+41.0,,christine34@jones-marshall.com,32-13-2022,Laptop,1,-100,UPI,Refunded,"174 Natasha Station Apt. 261, Cookeland, NE 04353",Canada,2020-12-15
+42.0,Jennifer Roberts,glasslisa@hotmail.com,2023-05-14,Headphones,five,500.0,Cheque,Done,"3999 Travis Junction Suite 824, Hamiltonshire, IL 10153",Australia,2025-08-13
+43.0,Amber Obrien,ntucker@navarro.com,32-13-2022,,5,99.99,Debit Card,Cancelled,"56518 Smith Plaza, South Jason, UT 84665",Ind,2021-12-27
+,,murraycharles@yahoo.com,2022-07-09,Tablet,10,500.0,Debit Card,Completed,"6748 Alicia Street, Walkerfort, IL 11786",UK,2022-12-28
+45.0,Sarah Horne,james74@hotmail.com,2025-04-06,Tablet,,ten,Cash,Pending,"828 Lawson Unions Suite 501, North Roger, NE 91192",USA,2024-10-28
+,Mark Aguirre,brooke09@yahoo.com,2020-12-05,Tablet,,-100,,Done,"8510 Thomas Garden, Cisnerosshire, MA 65196",Canada,2025-06-03
+47.0,Tara Wright,invalid_email,2023-08-30,Tablet,4,249.5,,Done,"94689 Anthony Ranch Suite 744, Phillipsstad, AZ 74176",Canada,2021-08-05
+48.0,Miguel Hartman,kaylasmith@smith.info,2021-11-09,,3,99.99,,Done,"PSC 9663, Box 6350, APO AE 72780",USA,2025-08-15
+49.0,Dylan Lawrence,bharris@gmail.com,2022-09-09,Tablet,4,,UPI,Refunded,,UK,2023-07-25
+50.0,Angela Thompson,elizabethjohnson@nelson-anderson.biz,2023-03-22,Tablet,1,ten,Debit Card,Pending,"5676 Mary Way Suite 427, North Ryanland, MO 92092",Canada,2025-05-29
+51.0,Nicole Butler,matthew22@yahoo.com,2024-06-29,,5,249.5,Credit Card,Cancelled,"801 Michael Mill, Ramirezberg, SD 68312",Australia,2022-07-06
+52.0,David Ortiz,nwright@williams.com,2021-09-28,,1,ten,UPI,Completed,"871 Elliott Flats Apt. 433, Petersonmouth, UT 41739",UK,2024-02-11
+53.0,Hannah Alexander,murphyjoshua@hotmail.com,2023-12-20,Camera,,249.5,UPI,Completed,,India,2020-11-20
+54.0,Wanda Burns,invalid_email,2022-09-03,Mobile,4,ten,Credit Card,Completed,"82412 Elaine Cape, Wardtown, IL 79413",Australia,2020-01-26
+55.0,Travis Schwartz,hughesebony@smith-mcdonald.info,2022-08-22,Headphones,5,,Credit Card,Done,"270 William Courts, Lake Tiffanyberg, AK 78690",India,
+56.0,Vicki Glass DDS,lee42@wilson-riley.com,2022-05-12,Headphones,5,-100,Credit Card,Pending,"049 Dawson Ramp Apt. 408, Douglasville, VA 80241",USA,2023-09-05
+57.0,,rclayton@cook.com,2022-06-03,Camera,5,ten,Cheque,Cancelled,"13875 Krista Courts Apt. 242, New Anna, WV 01904",UK,2022-03-07
+58.0,Brian Blackwell,bobbyking@greer.org,2023-04-28,Tablet,5,ten,Debit Card,Refunded,"5911 Logan Village Suite 904, Loriton, NE 15937",India,2021-08-27
+59.0,,amy19@yahoo.com,2023-09-12,Headphones,,500.0,Cheque,Completed,,Australia,2023-09-09
+60.0,Wendy Collins,diazjulie@gmail.com,2020-04-05,Laptop,10,500.0,UPI,Done,"649 Ashley Stream, Masonburgh, DE 28355",Canada,2023-09-19
+61.0,Mark Thomas,jeffreymorris@martin.net,2023-12-29,Mobile,5,ten,Credit Card,Done,,Canada,
+62.0,Danielle Key,jonpierce@edwards.com,2024-12-09,Tablet,five,99.99,Cheque,Pending,"0703 Robert Garden Suite 164, Grayhaven, MN 59914",Canada,2021-10-12
+63.0,,invalid_email,2022-11-22,Tablet,,ten,Cash,Completed,"5178 Jillian Lakes Suite 875, Sharpfurt, NJ 48969",UK,2022-08-16
+64.0,Sean Carter,sara15@hammond.org,32-13-2022,,5,ten,,Cancelled,"6157 Glass Route Suite 467, North Denisetown, CA 32564",USA,2025-02-16
+65.0,Katherine Curtis,markarmstrong@day-rodriguez.net,2023-04-03,Headphones,3,99.99,Cheque,Completed,"32779 Brandi Court Suite 773, Port Evelyn, PA 93078",Ind,
+66.0,Sara Foster,ramirezchristina@hotmail.com,2023-05-26,Tablet,1,500.0,Debit Card,Pending,"8208 Stephanie Isle, Zacharyshire, AK 77396",Ind,2021-12-23
+67.0,Patricia Oliver,nbutler@hester.net,2020-06-22,,1,,UPI,Refunded,"00860 Abigail Bridge Apt. 823, Lake Samuel, SD 78651",USA,2021-06-29
+,Richard Edwards,gblair@yahoo.com,2020-07-11,Mobile,1,,,Refunded,"7071 Jones Glens, Moonchester, NC 58566",Ind,2025-01-13
+69.0,Ashlee Hahn,invalid_email,2025-07-22,Mobile,,99.99,Cheque,Refunded,"144 Camacho Oval, New Mark, NH 85012",Ind,2025-07-10
+70.0,Dylan Kelly,matthew02@hotmail.com,2024-10-03,Tablet,5,500.0,Credit Card,Pending,"914 Stacey Island Suite 603, Hensonville, VA 28127",USA,2022-07-06
+71.0,Curtis Castillo,invalid_email,2024-05-20,Mobile,1,249.5,Credit Card,Refunded,"PSC 7739, Box 5915, APO AA 19134",UK,2024-02-08
+72.0,Angel Lucero,leegina@williams-chen.com,32-13-2022,Mobile,2,99.99,,Done,"22117 Richard Rapids, Lake Jackie, OR 78006",Canada,2021-08-30
+73.0,Brandon Sanders,invalid_email,32-13-2022,Headphones,10,99.99,Cheque,Refunded,"296 Christopher Stravenue, Hensonberg, MT 06438",India,2023-09-01
+74.0,Don Cole,juarezkimberly@gmail.com,2023-09-30,Laptop,10,-100,,Pending,"3436 Solomon Valleys Apt. 154, Teresafort, ID 79762",India,
+75.0,Bradley Henry,zmcconnell@hotmail.com,2022-07-02,Mobile,,ten,Debit Card,Cancelled,"0401 Kyle Ridge Suite 083, Pattersonton, MS 08336",Canada,2022-07-05
+76.0,Joseph Allison,invalid_email,2022-10-07,Camera,1,ten,Cheque,Cancelled,"06208 Peterson Tunnel Suite 187, West Kimberly, AZ 79468",UK,2023-08-20
+77.0,Holly Barron,invalid_email,2021-09-13,Camera,,-100,,Refunded,,USA,
+78.0,Diane Harris,jgraves@yahoo.com,2020-07-18,Laptop,5,,Credit Card,Cancelled,"703 Sloan Lodge, Ryanhaven, MA 26367",USA,2020-03-27
+79.0,Monica Spencer,yclark@hotmail.com,32-13-2022,Camera,4,,,Cancelled,"7047 Kelly Field, Lake James, AR 44856",Canada,
+80.0,,donald54@kelly.net,2022-10-09,Laptop,five,99.99,Cheque,Cancelled,"6979 Kimberly Drive, North Krista, VT 38015",USA,2022-09-25
+81.0,Sara Giles,dustingonzalez@yahoo.com,2020-06-23,Headphones,1,249.5,Cheque,Refunded,"755 Jennifer Stravenue Suite 833, Port Troy, DE 46130",USA,2025-08-11
+82.0,,yatessteven@sanchez-burgess.com,2022-10-30,Laptop,five,99.99,Debit Card,Refunded,"62011 Larson Garden, Michellefurt, MS 13564",Ind,2020-03-22
+83.0,Sean Pacheco,ashleymunoz@yahoo.com,2025-05-09,,2,-100,Credit Card,Completed,"17781 Olson Well Apt. 787, Port Jennifer, NY 66866",Ind,2022-06-10
+84.0,,bradleysamantha@mason.biz,2025-03-11,Mobile,4,249.5,,Completed,,Ind,
+85.0,Nicole Smith,ywilliams@munoz.com,2025-04-05,Mobile,4,249.5,UPI,Refunded,"395 Novak Park Apt. 517, North Alexandria, MA 22462",Canada,2025-05-10
+86.0,Kirsten Hughes,rgamble@taylor.com,2024-09-22,Camera,2,249.5,Debit Card,Cancelled,,Canada,2025-04-09
+87.0,Cindy Campbell,zshaw@snow-schmidt.com,2025-07-29,Camera,,-100,Cheque,Refunded,"92673 Amber Fort Apt. 738, East Bradley, ID 21532",UK,2020-06-29
+88.0,Mary Cooper,irubio@rice.com,2024-06-18,Camera,1,249.5,UPI,Done,"71133 Charles Port, Kimberlyfurt, GA 50154",UK,2022-05-08
+89.0,Cynthia Farrell,invalid_email,2024-05-02,Laptop,3,,Cash,Completed,"7894 Nancy Views, East Albertmouth, OK 86569",UK,
+90.0,,jodiwilliams@flynn-west.net,32-13-2022,Laptop,five,99.99,Debit Card,Completed,"58777 Travis Brook Apt. 292, Georgemouth, CA 51255",USA,
+91.0,Christine Johnson,qskinner@gmail.com,2025-08-04,,,249.5,Cheque,Completed,"6009 Vasquez Creek, East Anna, SD 48150",Ind,2022-04-22
+92.0,Justin Harding DDS,laurenmurillo@gmail.com,2024-02-29,,3,99.99,Cheque,Pending,"7766 Short Harbors, Daviston, MN 14628",Australia,2022-02-24
+,,invalid_email,2025-07-12,Camera,5,249.5,Credit Card,Pending,"59185 Jordan Bypass Apt. 045, Katiefurt, ME 88121",Ind,2023-01-07
+94.0,Joanne Knapp,millerjustin@noble.com,2021-12-07,Laptop,4,,Cash,Pending,"76830 Lauren Mountain Apt. 343, New Debbieville, SC 59504",Australia,2025-07-13
+95.0,Audrey Ramirez,nowens@hotmail.com,2022-06-04,Camera,10,-100,Cheque,Pending,"158 Roberson Springs Apt. 201, Cherylfort, NH 41322",Canada,2023-06-05
+96.0,Heidi Hale,williamcampbell@stone.com,32-13-2022,,1,-100,Cheque,Completed,"75879 Haney Stream Apt. 608, South Brandi, NE 84591",UK,2025-01-07
+97.0,Justin Weber,perezrebekah@harvey.biz,2020-01-15,Mobile,3,249.5,Debit Card,Pending,"00365 Adrian Garden, North Robert, LA 37519",UK,2024-05-22
+98.0,Valerie Cain,hallcarlos@parker.net,2024-12-05,Mobile,5,500.0,,Done,,India,2022-07-03
+99.0,Thomas Lee,rachelhunt@yahoo.com,2024-02-05,Mobile,5,249.5,,Refunded,,Ind,2023-04-21
+100.0,Wayne Schneider,rasmussendavid@yahoo.com,2020-10-07,,five,249.5,Credit Card,Cancelled,"PSC 3328, Box 3211, APO AE 66105",UK,2024-07-23
